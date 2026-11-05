@@ -1,9 +1,9 @@
 {
  "schema": 1,
- "version": "0.3.1",
- "url": "https://github.com/cbfx-labs/maya-submit/releases/download/v0.3.1/CBFX_Maya_Submit_0.3.1.zip",
- "sha256": "1adb344f65c955aa6c3613d9a9fcecdf7a75ef2b9f9fd83dc80a72215a9e7050",
- "size": 373078,
- "notes": "Update-path check. No changes you'll notice.",
- "rollback": false
+ "version": "0.3.0",
+ "url": "https://github.com/cbfx-labs/maya-submit/releases/download/v0.3.0/CBFX_Maya_Submit_0.3.0.zip",
+ "sha256": "c3985fb7c13dd7ad16f22bbf2dca1bd11b71a91c8ab0404be70f8659f76a9bde",
+ "size": 373077,
+ "notes": "rollback test",
+ "rollback": true
 }
