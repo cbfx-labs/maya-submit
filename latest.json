@@ -1,9 +1,9 @@
 {
  "schema": 1,
- "version": "0.3.1",
- "url": "https://github.com/cbfx-labs/maya-submit/releases/download/v0.3.1/CBFX_Maya_Submit_0.3.1.zip",
- "sha256": "1adb344f65c955aa6c3613d9a9fcecdf7a75ef2b9f9fd83dc80a72215a9e7050",
- "size": 373078,
- "notes": "Update-path check. No changes you'll notice.",
- "rollback": true
+ "version": "0.3.2",
+ "url": "https://github.com/cbfx-labs/maya-submit/releases/download/v0.3.2/CBFX_Maya_Submit_0.3.2.zip",
+ "sha256": "368f51912a71afe3494e55309252154d9586bbc9bbcf1bea5566d9ed30c11c78",
+ "size": 908290,
+ "notes": "Adds CBFX_Maya_Submit_Quickstart.pdf: a picture guide to installing, submitting and following a job.",
+ "rollback": false
 }
