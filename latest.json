@@ -1,9 +1,9 @@
 {
  "schema": 1,
- "version": "0.3.2",
- "url": "https://github.com/cbfx-labs/maya-submit/releases/download/v0.3.2/CBFX_Maya_Submit_0.3.2.zip",
- "sha256": "368f51912a71afe3494e55309252154d9586bbc9bbcf1bea5566d9ed30c11c78",
- "size": 908290,
- "notes": "Adds CBFX_Maya_Submit_Quickstart.pdf: a picture guide to installing, submitting and following a job.",
+ "version": "0.3.3",
+ "url": "https://github.com/cbfx-labs/maya-submit/releases/download/v0.3.3/CBFX_Maya_Submit_0.3.3.zip",
+ "sha256": "637311a1c56c6160121d18e00be825497f828f3726e59f94e2eae56e8e407304",
+ "size": 1875125,
+ "notes": "Fixes submitting from the Maya 2027 window (the farm copy was never written). Image planes are no longer uploaded.",
  "rollback": false
 }
